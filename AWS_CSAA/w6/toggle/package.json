@@ -1,0 +1,14 @@
+{
+  "name": "aws-csaa-w6-toggle",
+  "version": "1.0.0",
+  "description": "Tydzień 6: Oznaczenie zasobów tagiem ENV=TEST. W skrypcie do Lambdy wyszukanie wszystkich instancji EC2 z danym tagiem i ich wyłączenie jeśli są włączone.  Modyfikacja AutoScaling Group by miała desired na 0, przy uruchomieniu ustawienie desired na wartość z tagu Desired.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.668.0"
+  }
+}
