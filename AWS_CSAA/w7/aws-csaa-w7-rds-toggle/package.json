@@ -1,0 +1,14 @@
+{
+  "name": "aws-csaa-w7-rds-toggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.668.0"
+  }
+}
